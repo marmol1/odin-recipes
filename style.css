@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-align: center;
+    color: rgb(17, 17, 17);
+}
+
+.recipes {
+    color: rgb(22, 22, 155);
+    font-weight: bold;
+    list-style: none;
+}
+
+ul {
+    background-color: antiquewhite;
+}
+
+.heading {
+    color: rgb(22, 22, 155);
+}
